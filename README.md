@@ -6,3 +6,4 @@ There is one issue thought: the connector size, i don't know it, so i have no id
 /!\ Don't produce for the moment /!\
 
 or if you have a caliper and a NGP cartridge, feel free to correct the board size and rearrange connectors
+You need also a cpld or another Uc to pass the verification check.
